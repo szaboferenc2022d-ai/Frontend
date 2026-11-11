@@ -2,7 +2,6 @@ import './App.css'
 import LoginForm from './componets/LoginFrom'
 import Fizet from './componets/Fizet'
 import Szalit from './componets/SzalitasCim'
-import Footer from './componets/Foot'
 import Navbar from './componets/Navbar'
 
 function App() {
